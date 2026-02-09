@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\bin\Debug\02 Punkty.exe.config
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\bin\Debug\02 Punkty.exe
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\bin\Debug\02 Punkty.pdb
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\obj\Debug\02 Punkty.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\obj\Debug\02 Punkty.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\obj\Debug\02 Punkty.exe
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\02 Punkty\obj\Debug\02 Punkty.pdb

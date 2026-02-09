@@ -1,0 +1,5 @@
+Imie: Anna
+Nazwisko: Nowak
+Rok urodzenia: 2005
+Data zapisu: 24.02.2024 19:41:15
+Numer zapisu:1

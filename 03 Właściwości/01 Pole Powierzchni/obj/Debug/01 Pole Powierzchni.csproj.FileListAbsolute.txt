@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\bin\Debug\01 Pole Powierzchni.exe.config
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\bin\Debug\01 Pole Powierzchni.exe
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\bin\Debug\01 Pole Powierzchni.pdb
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\obj\Debug\01 Pole Powierzchni.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\obj\Debug\01 Pole Powierzchni.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\obj\Debug\01 Pole Powierzchni.exe
+C:\Users\DariuszKralewski\source\repos\03 Właściwości\01 Pole Powierzchni\obj\Debug\01 Pole Powierzchni.pdb

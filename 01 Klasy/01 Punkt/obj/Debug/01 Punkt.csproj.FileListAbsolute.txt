@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\bin\Debug\01 Punkt.exe.config
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\bin\Debug\01 Punkt.exe
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\bin\Debug\01 Punkt.pdb
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\obj\Debug\01 Punkt.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\obj\Debug\01 Punkt.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\obj\Debug\01 Punkt.exe
+C:\Users\DariuszKralewski\source\repos\01 Klasy\01 Punkt\obj\Debug\01 Punkt.pdb

@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\bin\Debug\02 KolejnoscInicjalizacji.exe.config
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\bin\Debug\02 KolejnoscInicjalizacji.exe
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\bin\Debug\02 KolejnoscInicjalizacji.pdb
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\obj\Debug\02 KolejnoscInicjalizacji.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\obj\Debug\02 KolejnoscInicjalizacji.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\obj\Debug\02 KolejnoscInicjalizacji.exe
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\02 KolejnoscInicjalizacji\obj\Debug\02 KolejnoscInicjalizacji.pdb

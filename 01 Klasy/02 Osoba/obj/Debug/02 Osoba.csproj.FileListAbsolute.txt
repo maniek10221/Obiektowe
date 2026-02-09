@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\bin\Debug\02 Osoba.exe.config
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\bin\Debug\02 Osoba.exe
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\bin\Debug\02 Osoba.pdb
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\obj\Debug\02 Osoba.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\obj\Debug\02 Osoba.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\obj\Debug\02 Osoba.exe
+C:\Users\DariuszKralewski\source\repos\01 Klasy\02 Osoba\obj\Debug\02 Osoba.pdb

@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\bin\Debug\01 Czolg.exe.config
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\bin\Debug\01 Czolg.exe
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\bin\Debug\01 Czolg.pdb
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\obj\Debug\01 Czolg.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\obj\Debug\01 Czolg.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\obj\Debug\01 Czolg.exe
+C:\Users\DariuszKralewski\source\repos\02 Konstruktory\01 Czolg\obj\Debug\01 Czolg.pdb
