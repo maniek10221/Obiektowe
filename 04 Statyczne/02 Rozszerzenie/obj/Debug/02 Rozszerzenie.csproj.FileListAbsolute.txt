@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\bin\Debug\02 Rozszerzenie.exe.config
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\bin\Debug\02 Rozszerzenie.exe
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\bin\Debug\02 Rozszerzenie.pdb
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\obj\Debug\02 Rozszerzenie.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\obj\Debug\02 Rozszerzenie.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\obj\Debug\02 Rozszerzenie.exe
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\02 Rozszerzenie\obj\Debug\02 Rozszerzenie.pdb

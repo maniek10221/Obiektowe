@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\bin\Debug\03 Przesłonięcie metody bazowej.exe.config
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\bin\Debug\03 Przesłonięcie metody bazowej.exe
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\bin\Debug\03 Przesłonięcie metody bazowej.pdb
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\obj\Debug\03 Przesłonięcie metody bazowej.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\obj\Debug\03 Przesłonięcie metody bazowej.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\obj\Debug\03 Przesłonięcie metody bazowej.exe
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\03 Przesłonięcie metody bazowej\obj\Debug\03 Przesłonięcie metody bazowej.pdb

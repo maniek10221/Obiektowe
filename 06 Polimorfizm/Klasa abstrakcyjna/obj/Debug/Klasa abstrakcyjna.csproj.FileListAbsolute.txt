@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\bin\Debug\Klasa abstrakcyjna.exe.config
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\bin\Debug\Klasa abstrakcyjna.exe
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\bin\Debug\Klasa abstrakcyjna.pdb
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\obj\Debug\Klasa abstrakcyjna.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\obj\Debug\Klasa abstrakcyjna.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\obj\Debug\Klasa abstrakcyjna.exe
+C:\Users\DariuszKralewski\source\repos\06 Polimorfizm\Klasa abstrakcyjna\obj\Debug\Klasa abstrakcyjna.pdb

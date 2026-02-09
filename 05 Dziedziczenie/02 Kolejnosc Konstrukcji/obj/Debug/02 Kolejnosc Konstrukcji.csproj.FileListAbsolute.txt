@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\bin\Debug\02 Kolejnosc Konstrukcji.exe.config
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\bin\Debug\02 Kolejnosc Konstrukcji.exe
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\bin\Debug\02 Kolejnosc Konstrukcji.pdb
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\obj\Debug\02 Kolejnosc Konstrukcji.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\obj\Debug\02 Kolejnosc Konstrukcji.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\obj\Debug\02 Kolejnosc Konstrukcji.exe
+C:\Users\DariuszKralewski\source\repos\05 Dziedziczenie\02 Kolejnosc Konstrukcji\obj\Debug\02 Kolejnosc Konstrukcji.pdb

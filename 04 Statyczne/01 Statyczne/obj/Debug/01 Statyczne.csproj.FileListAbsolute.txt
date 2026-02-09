@@ -1,0 +1,7 @@
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\bin\Debug\01 Statyczne.exe.config
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\bin\Debug\01 Statyczne.exe
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\bin\Debug\01 Statyczne.pdb
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\obj\Debug\01 Statyczne.csproj.AssemblyReference.cache
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\obj\Debug\01 Statyczne.csproj.CoreCompileInputs.cache
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\obj\Debug\01 Statyczne.exe
+C:\Users\DariuszKralewski\source\repos\04 Statyczne\01 Statyczne\obj\Debug\01 Statyczne.pdb
